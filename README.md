@@ -1,3 +1,8 @@
+# Development
+
+Originally developed by SoapwithCamel. Modified with changes in memory, and IO 
+access. More changes under progress. Current capabilities described below.
+
 # Calibration Tips:
 
 1. Before calibration, ensure that the CPU is running at maximum frequency and
